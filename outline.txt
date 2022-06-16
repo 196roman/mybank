@@ -1,0 +1,16 @@
+1. For the most part, there are two different types of functions you'll need to define:
+LOG IN and BANKING functions.
+I used seperate header files for these just to make the distinction. You should start writing the LOG IN functions and work on the .cpp file interchangeably.
+
+2. Write out the prompts so you'll know what variables you need to initialize at the start. After you're done, tackle sign up first.
+
+3. Think about the functions you'll need for the sign up portion. Ideally you store the username and password some where indeitfiable. Write the function and test it.
+Open the file to see if it's storing the information as intended.
+
+4. Next, log in. You will need a way to verify if a username exists and if a password is correct in terms of the username entered. 
+
+5. Write out the prompts for the banking portion.
+
+6. The computer needs to know if a user already has a balance or if it needs to intiialize the bank account.
+
+7. Preferably, the changes in balance will be documented clearly for the user to read in the file. 
